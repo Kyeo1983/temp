@@ -1,12 +1,13 @@
 [
   {
-    "appID": "current-ratio-msft",
+    "appid": "current-ratio-msft",
     "name": "current-ratio-msft",
     "title": "Current Ratio - Microsoft",
     "description": "Current Ratio Microsoft example",
     "manifest": {
       "url": "https://www.macrotrends.net/assets/php/fundamental_iframe.php?t=MSFT&type=current-ratio&statement=ratios&freq=Q"
     },
+    "manifestType": "inline-view",
     "icons": [
       {
         "src": "https://www.pikpng.com/pngl/m/66-660381_business-icon-company-name-icon-clipart.png"
